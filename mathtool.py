@@ -3,3 +3,6 @@ def sqsum(a, b):
 
 def sqrt2(a, b):
     return a**3 + b
+
+def constant(a):
+    return a
